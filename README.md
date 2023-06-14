@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etfsari
 - 👀 I’m interested in game developement
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#/java
 - 💞️ I’m looking to collaborate on nothing at the moment 
 - 📫 How to reach me: please don't
 
